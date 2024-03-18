@@ -1,2 +1,2 @@
 # DS_LAB
-Programs of DSlaboratory
+Programs of DS laboratory
